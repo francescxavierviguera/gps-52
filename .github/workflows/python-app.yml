@@ -37,4 +37,4 @@ jobs:
     - name: Test with pytest
       run: |
         # Hem de modificar aquesta comanda per executar els tests correctament i el seu coverage  
-        pytest
+        pytest test.py
